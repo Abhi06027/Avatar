@@ -3,7 +3,7 @@ import React from "react";
 export default function Main() {
   return (
     <div className="    ">
-      <div className=" absolute bg-goli  z-10 px-6 sm:px-6  md:px-6 lg:px-14  ">
+      <div className=" absolute bg-goli  z-10 px-4 sm:px-4 md:px-4 lg:px-14  ">
         <img
           className=" w-16 sm:w-16 md:w-20 lg:w-28 brightness-100  cursor-pointer  - '  "
           src="./images/netflix.png"
@@ -55,7 +55,7 @@ export default function Main() {
 
           <div className=" text-gray-400 hover:text-gray-200  hidden sm:block md:block  lg:block ">
             <img
-              className="hover:bg-gray-300  w-20 sm:w-20 md:w-30 lg:w-44  hover:border-2   rounded-md   "
+              className="hover:bg-gray-300    w-20 sm:w-20 md:w-30 lg:w-44 px-4 py-4   lg:px-8 lg:py-8  hover:border-2   rounded-md   "
               src="./images/plus.png"
               alt=""
             />
@@ -66,11 +66,11 @@ export default function Main() {
         </div>
         <div className=" text-gray-400 hover:text-gray-200  sm:hidden  md:hidden lg:hidden ">
           <img
-            className="hover:bg-gray-300 w-20 md:w-44  px-4 py-4  hover:border-2   object-contain   rounded-md transform   "
+            className="hover:bg-gray-300 w-20 sm:w-20 md:20 lg:w-20  px-4 py-4  hover:border-2   object-contain   rounded-md transform   "
             src="./images/plus.png"
             alt=""
           />
-          <p className="py-2 text-xs sm:text-xs md:text-xs lg:text-lg text-center font-semibold  ">
+          <p className=" text-xs sm:text-xs md:text-xs lg:text-lg text-center font-semibold  ">
             Add Profile
           </p>
         </div>
