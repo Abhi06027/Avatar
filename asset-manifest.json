@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Avatar/static/css/main.571cd2e1.css",
-    "main.js": "/Avatar/static/js/main.ead32d1d.js",
+    "main.css": "/Avatar/static/css/main.e100f2e6.css",
+    "main.js": "/Avatar/static/js/main.d6fc1f47.js",
     "static/js/787.0904c1f0.chunk.js": "/Avatar/static/js/787.0904c1f0.chunk.js",
     "index.html": "/Avatar/index.html",
-    "main.571cd2e1.css.map": "/Avatar/static/css/main.571cd2e1.css.map",
-    "main.ead32d1d.js.map": "/Avatar/static/js/main.ead32d1d.js.map",
+    "main.e100f2e6.css.map": "/Avatar/static/css/main.e100f2e6.css.map",
+    "main.d6fc1f47.js.map": "/Avatar/static/js/main.d6fc1f47.js.map",
     "787.0904c1f0.chunk.js.map": "/Avatar/static/js/787.0904c1f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.571cd2e1.css",
-    "static/js/main.ead32d1d.js"
+    "static/css/main.e100f2e6.css",
+    "static/js/main.d6fc1f47.js"
   ]
 }
